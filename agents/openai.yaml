@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习通课程自动化完成"
+  short_description: "通过 Windows MCP 控制 Edge，逐项推进学习通课程并核实完成状态"
+  default_prompt: "使用 $chaoxing-course-completion，通过 Windows MCP 和 Edge 检查当前课程的未完成任务点，并在我指定的范围内依次推进。"
