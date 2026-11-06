@@ -5,6 +5,8 @@ description: 使用 Windows MCP 控制 Edge，推进学习通/超星课程的视
 
 # 学习通课程自动化完成
 
+适用于 Codex、DeepSeek Harness 等 Agent。
+
 ## 执行约定
 
 - 通过 Windows MCP 操作 Edge 的实际页面。先发现工具，遵循宿主的权限和电脑操作规则；缺少必要工具时说明缺失，不改用脚本注入或后台接口。
